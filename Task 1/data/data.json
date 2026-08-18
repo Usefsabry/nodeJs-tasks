@@ -1,16 +1,10 @@
 {
   "products": [
     {
-      "id": 2,
-      "name": "Phone",
-      "price": 15000,
-      "category": "Electronics"
-    },
-    {
       "id": 3,
-      "name": "Headphones",
-      "price": 2500,
-      "category": "Accessories"
+      "name": "Updated Phone",
+      "price": 18000,
+      "category": "Electronics"
     },
     {
       "name": "Keyboard",
@@ -23,6 +17,12 @@
       "price": 1200,
       "category": "Accessories",
       "id": 5
+    },
+    {
+      "name": "Laptop",
+      "price": 25000,
+      "category": "Electronics",
+      "id": 6
     }
   ]
 }
