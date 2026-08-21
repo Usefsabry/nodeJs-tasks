@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Omar Yasser",
+      "email": "omaryasser@example.com",
+      "password": "password123",
+      "role": "user"
+    },
+    {
+      "name": "Menna Abdallah",
+      "email": "menna@example.com",
+      "password": "adminpassword",
+      "role": "admin"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Complete Node.js Assignment",
+      "description": "Build Express app with MongoDB and Mongoose",
+      "status": "pending",
+      "priority": "high",
+      "dueDate": "2026-08-25T00:00:00.000Z"
+    },
+    {
+      "title": "Review Mongoose Schemas",
+      "description": "Ensure no assignedTo field is in task schema",
+      "status": "completed",
+      "priority": "medium",
+      "dueDate": "2026-08-20T00:00:00.000Z"
+    }
+  ]
+}
